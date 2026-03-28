@@ -297,7 +297,6 @@ fprintf('  %-32s %.2f %%\n','Eficiencia AM (μ=%.2f)',   (mu^2/(2+mu^2))*100);
 fprintf('  %-32s %.2f %%\n','THD estimado (distorsión)',THD);
 fprintf('  %-32s %d Hz\n',  'Ancho de banda AM (2*fm)', 2*fm);
 fprintf('==================================================\n\n');
-fprintf('[OK] Script ejecutado exitosamente. Revisa las 6 figuras generadas.\n');
 
 % =========================================================================
 %  FIN DEL SCRIPT
